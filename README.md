@@ -1,1 +1,1 @@
-# https://DanielDiogo98.github.io/ProvaCIntia/
+# https://danieldiogo98.github.io./ProvaCIntia/
